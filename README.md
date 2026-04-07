@@ -1,1 +1,1 @@
-Created a Bank Management System using pythin just to improve my learnings
+Created a Bank Management System using python just to implement practically what I learned 
